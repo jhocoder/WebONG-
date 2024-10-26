@@ -1,2 +1,6 @@
-# WebONG-
-Web realizada para proyecto piloto de organizacion benefica. 
+<<<<<<< HEAD
+(cambios locales)
+=======
+(cambios remotos)
+>>>>>>> commit-id
+
