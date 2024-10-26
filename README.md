@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-(cambios locales)
-=======
-(cambios remotos)
->>>>>>> commit-id
-
+WEB ONG REALIZADA PARA ORGANIZACION BENEFICA
